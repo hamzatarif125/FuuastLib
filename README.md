@@ -1,5 +1,5 @@
 # FuuastLib
-FuuastLib is a Departmental Library Management System built with core Php.
+FuuastLib is a Departmental Library Management System built with core Php.  
 
 ## Summary
 FuuastLib is a very **Simple Library Management System** built to practice & enhance my *Php* and *Bootstrap* skills.
